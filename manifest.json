@@ -1,0 +1,10 @@
+{
+    "name": "WeatherBonuses",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/DarthLilo/WeatherBonuses",
+    "description": "Increase the scrap value for planets with weather!",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100",
+        "AinaVT-LethalConfig-1.4.2"
+    ]
+}
